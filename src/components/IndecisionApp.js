@@ -7,7 +7,7 @@ import Header from './Header';
 import OptionModal from './OptionModal';
 
 export default class IndecisionApp extends React.Component {
-  endpoint = 'http://todosapi-quarkus-marcel.apps.imperialporter.terrax.io';
+  endpoint = 'http://todo-quarkus-dave.apps.imperialporter.terrax.io';
 
   state = {
     options: [],
